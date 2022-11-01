@@ -13,8 +13,8 @@ OCR을 기반으로 인바디 이미지 인식에 따른 개인맞춤형 식단�
 <a href="https://aws.amazon.com/ko/" target="_blank"><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a> 
 
 ## ❔ Target User
-* 식단 관리가 필요한 사람 <br/>
-Personal Trainer은 비용을 지불하고 PT를 받지 않더라도 집에서도 균형 있는 식사로 영양분을 섭취할 수 있도록 도와줌
+* ### 식단 관리가 필요한 사람 <br/>
+Personal Trainer은 비용을 지불하고 PT를 받지 않더라도 집에서도 균형 있는 식사로 영양분을 섭취할 수 있도록 도와줌.
 더불어 사용자에게 개인 맞춤형 식단표를 제공해주는 서비스를 통해,
 사용자는 PT 비용을 절감하고 건강식 정보와 식단표를 쉽고 간편하게 제공받을 수 있음
 <br>
