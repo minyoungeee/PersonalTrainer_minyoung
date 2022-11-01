@@ -28,7 +28,7 @@ Personal Trainer은 비용을 지불하고 PT를 받지 않더라도 집에서�
 * 22.04.01 - 22.10.31
 
 ### 🧑‍🤝‍🧑 Organization
-|           Name           |        Full Stack       |        Full Stack       |
+|           Name           |        Full Stack       |        Contribution       |
 | :----------------------: | :-------------------------: | :-------------------------: |
 | <center> 이예진 </center> | <center> Front-End </center> | <center> 100% </center> |
 | <center> 유민영 </center> | <center> Back-End </center> | <center> 100% </center> |
