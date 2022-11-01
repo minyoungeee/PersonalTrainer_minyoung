@@ -32,7 +32,7 @@ Personal Trainer은 비용을 지불하고 PT를 받지 않더라도 집에서�
 | <center> 전수민 </center> | <center> Back-End </center> |
 | <center> 서문정 </center> | <center> Front-End </center> |
 
-### 🧑‍🤝‍🧑 Used Technique
+### ✔️ Used Technique
 | Full Stack | Technique | Role Officer |
 | :--------------------------: | :-----------------------------------------------: | :------------------------------: |
 | <center> Front-End </center> | <center> Android Studio </center> | <center> 이예진, 서문정 </center> |
@@ -45,7 +45,11 @@ Personal Trainer은 비용을 지불하고 PT를 받지 않더라도 집에서�
 - **Server** : AWS EC2 ubuntu
 
 ## 📌 Development Skills
-#### 
+#### 안드로이드 앱 구현 기술
+- 식단표, 일정관리, 데이터 베이스 등 사용자 중심의 UI/US를 위한 안드로이드 기반 애플리케이션 구현 기술
+#### 이미지 인식 및 자연어 처리 기술
+- NaverClova를 통한 인바디 결과 용지 속 글자를 추출하여 디지털 데이터로 변환해 주는 기술
+#### 데이터 시각화 기술
+- 기술 통계 기반 인바디 데이터 분석 및 변화 그래프에 이용한 데이터 시각화 기술
 
-
-✔️
+## 📎 Deliverables
