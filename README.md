@@ -64,3 +64,12 @@ Personal Trainer은 비용을 지불하고 PT를 받지 않더라도 집에서�
 ![서비스 구성도](https://user-images.githubusercontent.com/113801496/199249384-258ee377-3db1-4757-9351-5aaaf24f9236.PNG)
 
 ## 📎 Deliverables
+![mvp](https://user-images.githubusercontent.com/113801496/199274798-91a9d083-9eea-4bd0-bf24-6ea7011ce9f8.PNG)
+![ocr 실행화면](https://user-images.githubusercontent.com/113801496/199274851-cc2a6b11-5ad9-41bc-849c-b80d8087c482.PNG)
+
+## 🔖 Repository 
+
+
+
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
