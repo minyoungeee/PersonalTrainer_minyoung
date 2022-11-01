@@ -58,6 +58,6 @@ Personal Trainer은 비용을 지불하고 PT를 받지 않더라도 집에서�
 | <center> Android Studio </center> | <center> (Front-End) </center> |
 | <center> MySQL </center> | <center> (Back-End) 개인 맞춤형 식단표 추천 기술에 필요한 인바디 DB, 식단 DB를 구축 </center> |
 | <center> PHP </center> | <center> (Back-End) MySQL의 DB를 관리하고 DB 수정, 삭제 등 다양한 작업 수행  </center> |
-| <center> AWS EC2 </center> | <center> (Back-End) EC2를 통한 사용자 정보 관련 데이터 베이스, 사진등을 저장 </center> |
+| <center> AWS EC2 </center> | <center> (Back-End) AWS의 EC2를 테스트 서버로 사용 </center> |
 
 ## 📎 Deliverables
