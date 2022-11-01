@@ -31,7 +31,7 @@ Personal Trainer은 비용을 지불하고 PT를 받지 않더라도 집에서�
 |           Name           |        Full Stack       |        Contribution       |
 | :----------------------: | :-------------------------: | :-------------------------: |
 | <center> 이예진 </center> | <center> Front-End </center> | <center> 100% </center> |
-| <center> 유민영 </center> | <center> Back-End </center> | <center> 100% </center> |
+| <center><span style='background-color: #fff5b1'> 유민영 </span> </center> | <center> Back-End </center> | <center> 100% </center> |
 | <center> 전수민 </center> | <center> Back-End </center> | <center> 100% </center> |
 | <center> 서문정 </center> | <center> Front-End </center> | <center> 100% </center> |
 
