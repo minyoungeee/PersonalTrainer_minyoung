@@ -69,7 +69,7 @@ Personal Trainer은 비용을 지불하고 PT를 받지 않더라도 집에서�
 ## 📎 Deliverables
 ![mvp](https://user-images.githubusercontent.com/113801496/199274798-91a9d083-9eea-4bd0-bf24-6ea7011ce9f8.PNG)
 ![ocr 실행화면](https://user-images.githubusercontent.com/113801496/199274851-cc2a6b11-5ad9-41bc-849c-b80d8087c482.PNG)
-![PersonalTrainer-Demo](https://youtu.be/3JfU8Bs7ePc)
+> [PersonalTrainer-Demo](https://youtu.be/3JfU8Bs7ePc)
 
 ## 🔖 Repository 
 > [github](https://github.com/minyoungeee/PersonalTrainer_minyoung.git)
