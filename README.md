@@ -1,5 +1,6 @@
 # Capstone-Design-PersonalTrainer
 OCR을 기반으로 인바디 이미지 인식에 따른 개인맞춤형 식단표 제공 서비스
+>[프로젝트 소개 ppt](https://docs.google.com/presentation/d/1-GnFoM7eYvnUloaMjpYrnfx5up-jsp-T-9BWabT4Ygs/edit?usp=sharing)
 
 ## 🛠 Tech Stack 🛠
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>
@@ -25,12 +26,12 @@ Personal Trainer은 비용을 지불하고 PT를 받지 않더라도 집에서�
 * 22.04.01 - 22.10.31
 
 ### 🧑‍🤝‍🧑 Organization
-|           Name           |        Full Stack       |
-| :----------------------: | :-------------------------: |
-| <center> 이예진 </center> | <center> Front-End </center> |
-| <center> 유민영 </center> | <center> Back-End </center> |
-| <center> 전수민 </center> | <center> Back-End </center> |
-| <center> 서문정 </center> | <center> Front-End </center> |
+|           Name           |        Full Stack       |        Full Stack       |
+| :----------------------: | :-------------------------: | :-------------------------: |
+| <center> 이예진 </center> | <center> Front-End </center> | <center> 100% </center> |
+| <center> 유민영 </center> | <center> Back-End </center> | <center> 100% </center> |
+| <center> 전수민 </center> | <center> Back-End </center> | <center> 100% </center> |
+| <center> 서문정 </center> | <center> Front-End </center> | <center> 100% </center> |
 
 ### ✔️ Used Technique
 | Full Stack | Technique | Role Officer |
@@ -69,7 +70,5 @@ Personal Trainer은 비용을 지불하고 PT를 받지 않더라도 집에서�
 
 ## 🔖 Repository 
 > [github](https://github.com/minyoungeee/PersonalTrainer_minyoung.git)
-
-
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
